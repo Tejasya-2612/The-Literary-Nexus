@@ -10,7 +10,9 @@ The project was developed using HTML, CSS, and JavaScript with a focus on respon
 
 ## Live Demo:
 
+https://vermillion-entremet-53a6a6.netlify.app/
 
+---
 ## Features
 
 * Responsive landing page design
